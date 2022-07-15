@@ -1,3 +1,11 @@
+# SSAFY_0715_정리
+- git clone url 
+- touch 파일 // 파일 생성
+- git add . 
+- git commit -m "message"
+- git push origin main
+
+# 추가 정리
 SSAFY 220715 Markdown 정리
 Git 기본
 mkdir 새폴더 만들기
